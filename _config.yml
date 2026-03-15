@@ -9,18 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : 刘永洲
-position: 安徽大学 控制工程硕士
-affiliation: 安徽大学
-email: 13637060646@163.com
-research_interests: [计算机视觉, 底层视觉, 低光图像增强, 深度学习]
+title                    : "Yongzhou Liu"
+title_separator          : "安徽大学刘永洲的个人学术主页"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://liuyz007.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "liuyz007/liuyz007.github.io"
 
 
 
@@ -38,10 +33,16 @@ author:
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
+  
+name                     : 刘永洲
+position: 安徽大学 控制工程硕士
+affiliation: 安徽大学
+email: 13637060646@163.com
+research_interests: [计算机视觉, 底层视觉, 低光图像增强, 深度学习]
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
