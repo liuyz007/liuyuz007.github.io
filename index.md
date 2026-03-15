@@ -25,7 +25,6 @@ I am currently actively seeking **internship opportunities** in related fields. 
   * Xingbo Dong, **Yongzhou Liu**, Zhe Jin, Wen Sha* *(Second Author, Advisor First)*
   * *Signal, Image and Video Processing* (JCR Q3 / CAS Q4). **Accepted**, 2025.
   * [**Paper**](https://link.springer.com/article/10.1007/s11760-025-04940-9) | [**Code**](https://github.com/liuyz007/RawRWKV)
-  * *Citation:* Dong X, Liu Y, Jin Z, et al. RawRWKV: An efficient raw image enhancement framework via RWKV architecture[J]. Signal, Image and Video Processing, 2025, 19(16): 1373.
 
 * **A survey of mastication evaluation: from traditional approach to artificial intelligence**
   * **Yongzhou Liu**, Li Chen, Rentao Hong, Xingbo Dong*, Wen Sha, Zhe Jin, Ting Wu & Guoxun Chen 
