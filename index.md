@@ -12,9 +12,36 @@ I am currently actively seeking **internship opportunities** in related fields. 
 
 ---
 
-### Education
+### 🎓 Education
 * **M.E.** in Control Engineering, Anhui University, Sept. 2024 – Present
 * **B.E.** in Automation, Anhui University, Sept. 2020 – June 2024
 
-### Patents
-* **[National Invention Patent]** Low-light RAW Image Enhancement Method Based on RWKV. *(Second Inventor, Patent No: ZL 2025 1 0533374.8, Authorized in Nov. 2025)*
+### 💻 Skills
+* **Programming:** Python, C/C++
+* **Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Hugging Face, Git, Linux
+
+### 📝 Publications
+* **RawRWKV: An efficient raw image enhancement framework via RWKV architecture**
+  * Xingbo Dong, **Yongzhou Liu**, Zhe Jin, Wen Sha* *(Second Author, Advisor First)*
+  * *Signal, Image and Video Processing* (JCR Q3 / CAS Q4). **Accepted**, 2025.
+  * [**Paper**](https://link.springer.com/article/10.1007/s11760-025-04940-9) | [**Code**](https://github.com/liuyz007/RawRWKV)
+  * *Citation:* Dong X, Liu Y, Jin Z, et al. RawRWKV: An efficient raw image enhancement framework via RWKV architecture[J]. Signal, Image and Video Processing, 2025, 19(16): 1373.
+
+* **A survey of mastication evaluation: from traditional approach to artificial intelligence**
+  * **Yongzhou Liu**, Li Chen, Rentao Hong, Xingbo Dong*, Wen Sha, Zhe Jin, Ting Wu & Guoxun Chen 
+  * *Food, Nutrition and Health*. **Accepted**, 2025.
+  * [**Paper**](https://link.springer.com/article/10.1007/s44403-025-00029-w)
+
+* **Lightweight Low-Light Image Enhancement via Decoupling Texture and Structure**
+  * **Yongzhou Liu**, Xingbo Dong, Zhe Jin, Wen Sha*
+  * *Computers & Graphics* (CAS Q3). **Under Review**, 2026.
+  * *[Code will be available upon acceptance]*
+
+* **A Training-Free Low-Light Image Enhancement Framework via Content and Illumination Synergistic Guidance**
+  * **Yongzhou Liu**, Xingbo Dong, Zhe Jin, Wen Sha*
+  * *Computers & Graphics* (CAS Q3). **Under Review**, 2026.
+  * *[Code will be available upon acceptance]*
+
+### 📜 Patents
+* **[National Invention Patent]** Low-light RAW Image Enhancement Method Based on RWKV. 
+  * *Second Inventor*, Patent No: ZL 2025 1 0533374.8, Authorized in Nov. 2025.
