@@ -1,17 +1,16 @@
 # Basic Site Settings
-locale           : "zh-CN" # 既然是国内高校，可以把语言环境改为中文
+locale           : "zh-CN"
 site_theme       : "default" 
 title            : "Yongzhou Liu | 刘永洲"
-title_separator  : "-" # 注意：这里是网页标题的分隔符，只能填 "-" 或 "|"
+title_separator  : "-"
 description      : &description "安徽大学刘永洲的个人学术主页 | Yongzhou Liu's Academic Portfolio" 
 url              : "https://liuyz007.github.io" 
 baseurl          : "" 
 repository       : "liuyz007/liuyz007.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author
 author:
-  # Biographic information
-  avatar           : "profile.png" # 记得把你的照片命名为 profile.png 并上传到 images 文件夹里
+  avatar           : "profile.png"
   name             : "刘永洲 (Yongzhou Liu)"
   bio              : "控制工程硕士<br>研究方向：计算机视觉、底层视觉、低光图像增强、深度学习"
   location         : "安徽 合肥 (Hefei, China)"
